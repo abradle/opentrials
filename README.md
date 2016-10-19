@@ -92,7 +92,7 @@ https://github.com/pwalsh/notebooks/blob/master/opentrials/opentrials.ipynb
 which can be accessed via
 ```
 git clone https://github.com/pwalsh/notebooks.git opentrials-notebooks
-cd opentrials-notebook
+cd opentrials-notebooks
 jupyter notebook
 ```
 
